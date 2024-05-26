@@ -2,7 +2,7 @@
 - 👀 I’m interested in penetration testing 
 - 🌱 I’m currently learning python programming, operating system and networking
 - 📫 How to reach me alarapemaryam1@gmail.com
-- ⚡ Fun fact: Pwetty, hardworking shawty
+- ⚡ Fun fact:hardworking shawty
 
 <!---
 Akayda1/Akayda1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
